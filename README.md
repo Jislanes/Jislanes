@@ -1,5 +1,5 @@
 ## Oii, Bem vinde ao meu mundo! Pode me chamar de Jis 😜
- Mestre em Engenharia Química 👩‍🎓        |      Desenvolvedora Web Front-End (Loading) 👩‍💻 | Associate Developer I on AmbevTech 👩‍💼
+ Mestre em Engenharia Química 👩‍🎓        |      Engenheira de Software Front-End👩‍💻 | Software Engineer at XP Inc 👩‍💼
  <div>
   <a href="https://github.com/Jislanes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jislanes&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
